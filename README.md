@@ -4,7 +4,7 @@ Haodi Jiang, Jiasheng Wang, Chang Liu, Ju Jing, Hao Liu, Jason T. L. Wang and Ha
 
 Institute for Space Weather Sciences, New Jersey Institute of Technology
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fya54%2FSolarUnet-magnetic-tracking%2Fblob%2Fmain%2Frun_SolarUnet.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb)
 [![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886)
 
 
