@@ -8,6 +8,8 @@ dependencies:
 - tensorflow=1.2.0
 - opencv
 - pip:
+  - jupyter-client==7.0.6
+  - jupyter-core==4.4.0
   - tensorflow==1.12.0
   - keras==2.2.4
   - astropy==4.0.1
