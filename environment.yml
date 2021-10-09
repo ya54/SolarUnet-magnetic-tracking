@@ -5,7 +5,7 @@ dependencies:
 - pandas=0.22.0
 - python=3.6.8
 - pip
-- tensorflow-gpu=1.2.1
+- tensorflow=1.2.0
 - opencv
 - pip:
   - tensorflow-gpu==1.12.0
