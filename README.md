@@ -4,6 +4,10 @@ Haodi Jiang, Jiasheng Wang, Chang Liu, Ju Jing, Hao Liu, Jason T. L. Wang and Ha
 
 Institute for Space Weather Sciences, New Jersey Institute of Technology
 
+
+[![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886)
+
+
 ## Abstract
 
 Deep learning has drawn significant interest in recent years due to its effectiveness in processing 
