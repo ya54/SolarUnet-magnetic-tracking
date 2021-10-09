@@ -6,7 +6,7 @@
 
 ### Haodi Jiang, Jiasheng Wang, Chang Liu, Ju Jing, Hao Liu, Jason T. L. Wang and Haimin Wang
 
-Institute for Space Weather Sciences, New Jersey Institute of Technology
+#### Institute for Space Weather Sciences, New Jersey Institute of Technology
 
 
 
