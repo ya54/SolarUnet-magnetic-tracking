@@ -42,11 +42,15 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 
 |Library | Version   | Description  |
 |---|---|---|
-|astropy|4.0.1|astronomy and astrophysics data processing|
-|cv2| 3.4.2| image processing|
-| keras  | 2.2.4   |artificial neural networks API   |
-|   |   |   |
-|   |   |   |
+|astropy|4.0.1|Astronomy and Astrophysics data processing|
+|cv2| 3.4.2| Image processing|
+| keras  | 2.2.4   |Artificial neural networks API   |
+|matplotlib|3.1.0| Plotting and graphs|
+|numpy| 1.2.0| Array manipulation|
+|scikit-image| 0.15.0| Image processing|
+|scikit-learn| 0.15.0| Machine learning|
+| scipy  | 1.2.0  |Science and math   |
+| tensorflow  | 1.2.0  | Neural network libraries  |
 
 Tensorflow-GPU 1.12.0, Keras 2.2.4, astropy 4.0.1, numpy 1.16.1, scipy 1.2.0, sklearn 0.20.3, skimage 0.15.0, matplotlib 3.1.0, cv2 3.4.2. Please use the Jupyter Notebook to run the SolarUnet tool.
 
