@@ -38,8 +38,9 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
 ##### Please note that starting Binder might take sometimes to create and start the image.
 
-## Requirements: 
-
+## Installation on local machine 
+|Library|Version|Description|
+--
 Tensorflow-GPU 1.12.0, Keras 2.2.4, astropy 4.0.1, numpy 1.16.1, scipy 1.2.0, sklearn 0.20.3, skimage 0.15.0, matplotlib 3.1.0, cv2 3.4.2. Please use the Jupyter Notebook to run the SolarUnet tool.
 
 ## References:
