@@ -3,7 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
 
-#Authors
+# Authors
 ### Haodi Jiang, Yasser Abduallah
 
 #### Institute for Space Weather Sciences, New Jersey Institute of Technology
