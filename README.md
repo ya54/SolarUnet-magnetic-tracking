@@ -9,8 +9,6 @@
 #### Institute for Space Weather Sciences, New Jersey Institute of Technology
 
 
-
-
 ## Abstract
 
 Deep learning has drawn significant interest in recent years due to its effectiveness in processing 
@@ -30,6 +28,7 @@ and complementing SWAMIS in tracking long-lifetime features.
 Thus, the proposed physics-guided deep learning-based tool 
 can be considered as an alternative method for solar magnetic tracking.
 
+# Keywords
 ----
 
 Requirements: 
