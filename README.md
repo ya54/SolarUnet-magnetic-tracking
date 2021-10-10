@@ -30,6 +30,8 @@ can be considered as an alternative method for solar magnetic tracking.
 
 # Keywords
 ----
+Solar magnetic fields, Solar photosphere, Convolutional
+neural networks
 
 Requirements: 
 
