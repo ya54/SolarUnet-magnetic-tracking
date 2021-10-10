@@ -41,6 +41,7 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 ## Installation on local machine
 
 |Library | Version   | Description  |
+|---|---|---|
 |astropy|4.0.1|astronomy and astrophysics data processing|
 |   |   |   |
 |   |   |   |
