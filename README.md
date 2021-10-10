@@ -52,7 +52,6 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 | scipy  | 1.2.0  |Science and math   |
 | tensorflow  | 1.2.0  | Neural network libraries  |
 
-Tensorflow-GPU 1.12.0, Keras 2.2.4, astropy 4.0.1, numpy 1.16.1, scipy 1.2.0, sklearn 0.20.3, skimage 0.15.0, matplotlib 3.1.0, cv2 3.4.2. Please use the Jupyter Notebook to run the SolarUnet tool.
 
 ## References:
 
