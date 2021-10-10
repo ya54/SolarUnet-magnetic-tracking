@@ -32,7 +32,7 @@ neural networks
 
 ## Binder
 
-These notebooks are Binder enabled and can be run on (mybinder.org)(mybinder.org) for free using the links below
+These notebooks are Binder enabled and can be run on [mybinder.org](mybinder.org) for free using the links below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
 
