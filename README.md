@@ -1,10 +1,8 @@
 # Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning
 [![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
-
 # Authors
-### Haodi Jiang, Yasser Abduallah
+Haodi Jiang, Yasser Abduallah
 
 #### Institute for Space Weather Sciences, New Jersey Institute of Technology
 
@@ -31,6 +29,12 @@ can be considered as an alternative method for solar magnetic tracking.
 # Keywords
 Solar magnetic fields, Solar photosphere, Convolutional
 neural networks
+
+# Binder
+
+These notebooks are Binder enabled and can be run on (mybinder.org)(mybinder.org) for free using the links below
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
 
 Requirements: 
 
