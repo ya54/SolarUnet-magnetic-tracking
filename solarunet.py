@@ -43,7 +43,7 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import matplotlib.colors as mpcolor
-
+import numpy as np 
 
 def conv2_block(input_tensor, n_filters):
     x = Conv2D(n_filters, 3, activation='relu', padding='same', kernel_initializer='he_normal')(input_tensor)
