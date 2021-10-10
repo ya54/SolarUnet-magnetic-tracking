@@ -29,7 +29,6 @@ Thus, the proposed physics-guided deep learning-based tool
 can be considered as an alternative method for solar magnetic tracking.
 
 # Keywords
-----
 Solar magnetic fields, Solar photosphere, Convolutional
 neural networks
 
