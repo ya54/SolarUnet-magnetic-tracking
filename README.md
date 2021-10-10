@@ -43,7 +43,7 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 |Library | Version   | Description  |
 |---|---|---|
 |astropy|4.0.1|astronomy and astrophysics data processing|
-|   |   |   |
+| keras  | 2.2.4   |artificial neural networks API   |
 |   |   |   |
 |   |   |   |
 
