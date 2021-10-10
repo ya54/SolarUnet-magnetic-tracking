@@ -1,7 +1,7 @@
-# Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning
+## Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning
 [![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886) 
 
-# Authors
+## Authors
 Haodi Jiang, Yasser Abduallah
 
 #### Institute for Space Weather Sciences, New Jersey Institute of Technology
@@ -26,11 +26,11 @@ and complementing SWAMIS in tracking long-lifetime features.
 Thus, the proposed physics-guided deep learning-based tool 
 can be considered as an alternative method for solar magnetic tracking.
 
-# Keywords
+## Keywords
 Solar magnetic fields, Solar photosphere, Convolutional
 neural networks
 
-# Binder
+## Binder
 
 These notebooks are Binder enabled and can be run on (mybinder.org)(mybinder.org) for free using the links below
 
