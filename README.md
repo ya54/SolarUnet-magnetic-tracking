@@ -2,7 +2,11 @@
 [![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886) 
 
 ## Authors
-Haodi Jiang, Yasser Abduallah
+
+Haodi Jiang, Jiasheng Wang, Chang Liu, Ju Jing, Hao Liu, Jason T. L. Wang and Haimin Wang
+
+## Contributors
+Yasser Abduallah
 
 #### Institute for Space Weather Sciences, New Jersey Institute of Technology
 
